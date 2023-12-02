@@ -17,3 +17,4 @@ Put +exec autoexec in launch options (cs might do this automatically now so you 
 
 ur de subticked congrats beast
 
+NOTE: desubticking both your attack binds will make it so you can't change who you spectating, would recommending binding +attack2 to either something else or commenting the mouse2 bind out of the cfg so you can spectate/bring up cursor when looking at scoreboard
