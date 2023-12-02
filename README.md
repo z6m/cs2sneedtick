@@ -2,7 +2,7 @@
 
 Drag all these files into 
 
-		*whatever file structure you have for this here*\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg    
+		steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg    
 	
 Should look like this:
 
